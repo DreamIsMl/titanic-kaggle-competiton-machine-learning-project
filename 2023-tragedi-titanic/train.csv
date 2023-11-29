@@ -1,0 +1,910 @@
+ID,pclass,survived,sex,age,sibsp,parch,fare,cabin,embarked,boat,body,home.dest
+401,3,0,male,,0,0,8.0500,,S,,,
+402,3,1,female,22,1,0,13.9000,,S,16,,"West Haven, CT"
+403,3,0,male,,0,0,7.3125,,S,,,
+404,3,0,male,28,2,0,7.9250,,S,,,"Ruotsinphytaa, Finland New York, NY"
+405,3,0,male,,0,0,6.8583,,Q,,,
+406,3,0,male,,0,0,7.7333,,Q,,,
+407,3,0,female,48,1,3,34.3750,,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+408,3,0,male,33,0,0,7.8958,,S,,,
+409,2,1,female,,0,0,12.3500,E101,Q,10,,"Harrisburg, PA"
+410,3,0,male,,0,0,7.7750,,S,,,
+411,3,0,male,40,1,5,31.3875,,S,,142,"Sweden  Worcester, MA"
+412,2,0,male,,0,0,0.0000,,S,,,Belfast
+413,3,1,male,9,0,1,3.1708,,S,13,,
+414,3,0,female,30,0,0,7.6292,,Q,,,Ireland
+415,3,0,male,29,1,0,7.0458,,S,,,"Bridgerule, Devon"
+416,2,0,male,23,2,1,11.5000,,S,,,"Cornwall / Akron, OH"
+417,3,1,male,,0,0,7.7750,,S,B,,
+418,3,0,male,,0,0,7.2250,,C,,,
+419,3,1,female,,0,0,7.7500,,Q,16,,
+420,1,1,female,50,0,1,247.5208,B58 B60,C,6,,"Montreal, PQ"
+421,2,0,male,30,1,0,21.0000,,S,,,"Bristol, England / New Britain, CT"
+422,2,1,female,48,0,2,36.7500,,S,14,,"St Ives, Cornwall / Hancock, MI"
+423,3,1,male,,1,1,22.3583,,C,C,,
+424,3,0,male,19,0,0,7.7750,,S,,,"Myren, Sweden New York, NY"
+425,2,0,male,30,0,0,13.0000,,S,,,"St Austall, Cornwall"
+426,1,1,female,52,1,0,78.2667,D20,C,4,,"Haverford, PA"
+427,3,0,male,,0,0,15.1000,,S,,,
+428,3,1,female,1,0,2,15.7417,,C,C,,
+429,3,0,male,,0,0,56.4958,,S,,,
+430,3,0,male,,0,0,8.0500,,S,,,
+431,1,0,male,22,0,0,135.6333,,C,,232,
+432,2,1,female,24,0,0,13.0000,F33,S,11,,"London / Montreal, PQ"
+433,3,1,male,45,0,0,8.0500,,S,15,,"Australia Fingal, ND"
+434,2,0,male,30,0,0,13.0000,,S,,75,"Auburn, NY"
+435,1,0,male,50,0,0,26.0000,E60,S,,,London
+436,1,1,male,,0,0,30.0000,D45,S,3,,"Kingston, Surrey"
+437,3,1,male,39,0,1,13.4167,,C,15,,
+438,3,1,male,16,0,0,8.0500,,S,B,,
+439,3,0,male,,0,0,8.0500,,S,,,
+440,3,1,male,32,0,0,7.8542,,S,15,,
+441,1,0,male,45.5,0,0,28.5000,C124,S,,166,"Surbiton Hill, Surrey"
+442,2,0,male,18.5,0,0,13.0000,F,S,,294,
+443,2,0,male,28,0,0,26.0000,,S,,,England
+444,3,0,male,16,0,0,8.0500,,S,,,
+445,1,0,male,55,0,0,30.5000,C30,S,,,"Montreal, PQ"
+446,3,0,male,18,2,2,34.3750,,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+447,2,0,male,27,0,0,15.0333,,C,,,Paris
+448,3,0,male,4,4,1,29.1250,,Q,,,
+449,1,1,female,18,0,2,79.6500,E68,S,8,,"New York, NY"
+450,2,1,female,22,0,0,10.5000,F33,S,14,,Pennsylvania
+451,3,0,male,34.5,0,0,6.4375,,C,,196,
+452,2,0,male,18,0,0,10.5000,,S,,,"Cornwall / Houghton, MI"
+453,2,0,male,,0,0,15.0458,D,C,,,Paris
+454,3,0,female,3,1,1,13.7750,,S,,,
+455,3,1,female,5,0,0,12.4750,,S,13,,"New York, NY"
+456,1,1,female,36,0,0,135.6333,C32,C,8,,"New York, NY / Washington, DC"
+457,3,0,female,,0,2,7.7500,,Q,,,"Ireland Chicago, IL"
+458,3,1,female,16,0,0,7.7333,,Q,16,,"Co Longford, Ireland New York, NY"
+459,2,0,male,47,0,0,15.0000,,S,,,"North Evington, England"
+460,1,0,male,55,1,0,59.4000,,C,,,"New York, NY"
+461,3,0,male,40,0,0,7.2250,,C,,,
+462,3,0,male,,1,0,19.9667,,S,,,
+463,1,0,male,49,0,0,26.0000,,S,,,"Ascot, Berkshire / Rochester, NY"
+464,2,1,female,4,2,1,39.0000,F4,S,11,,"Guntur, India / Benton Harbour, MI"
+465,2,1,female,36,0,3,39.0000,F4,S,11,,"Guntur, India / Benton Harbour, MI"
+466,3,0,male,25,0,0,7.6500,F G73,S,,309,
+467,3,0,female,40,1,0,9.4750,,S,,,"Sweden Akeley, MN"
+468,1,1,female,,0,0,31.6833,,S,7,,"New York, NY"
+469,3,1,female,24,0,0,7.7500,,Q,15,,
+470,3,0,male,,1,0,6.4375,,C,,,
+471,3,0,male,36,0,0,0.0000,,S,,,
+472,3,0,male,24,0,0,8.6625,,S,,,
+473,1,0,male,42,0,0,42.5000,B11,S,,,London / Middlesex
+474,3,1,female,0.1667,1,2,20.5750,,S,10,,"Devon, England Wichita, KS"
+475,3,1,female,13,0,0,7.2292,,C,C,,"Syria Youngstown, OH"
+476,3,0,male,17,0,0,8.6625,,S,,,
+477,1,1,female,18,1,0,53.1000,D30,S,10,,"New York, NY"
+478,2,1,female,24,1,1,37.0042,,C,10,,"Paris / Montreal, PQ"
+479,3,0,male,4,3,2,27.9000,,S,,,
+480,2,0,female,30,0,0,13.0000,,S,,,"Provo, UT"
+481,3,0,female,17,0,0,7.7333,,Q,,,
+482,1,1,male,36,0,0,26.3875,E25,S,5,,"Brooklyn, NY"
+483,3,0,male,,0,0,24.1500,,Q,,,
+484,1,1,female,39,0,0,108.9000,C105,C,8,,
+485,1,1,male,17,0,2,110.8833,C70,C,B,,"Haverford, PA"
+486,2,1,female,48,1,2,65.0000,,S,9,,"Somerset / Bernardsville, NJ"
+487,3,1,male,27,0,0,7.7958,,S,A,,
+488,1,0,male,61,0,0,33.5000,B19,S,,245,"Brooklyn, NY"
+489,3,0,female,18,0,0,7.7750,,S,,,
+490,3,1,female,19,0,0,7.8792,,Q,C,,"Kilmacowen, Co Sligo, Ireland New York, NY"
+491,3,0,male,20,0,0,4.0125,,C,,,Syria
+492,2,0,male,27,0,0,26.0000,,S,,,"Hornsey, England"
+493,1,1,female,35,1,0,52.0000,,S,8,,"New York, NY"
+494,2,0,male,25,0,0,13.0000,,S,,,"Cornwall / Houghton, MI"
+495,1,1,female,22,0,2,49.5000,B39,C,5,,"Zurich, Switzerland"
+496,3,1,female,30,0,0,6.9500,,Q,15,,"Co Athlone, Ireland New York, NY"
+497,2,1,female,5,1,2,27.7500,,S,10,,"Bournmouth, England"
+498,3,1,male,14,0,0,9.2250,,S,13,,
+499,3,0,male,,0,0,8.0500,,S,,,
+500,1,1,female,53,0,0,27.4458,,C,6,,"Washington, DC"
+501,1,1,female,45,0,1,59.4000,,C,7,,"New York, NY"
+502,3,0,male,23,0,0,7.8542,,S,,,"Krakoryd, Sweden Bloomington, IL"
+503,2,0,male,54,0,0,14.0000,,S,,,"Frankfort, KY"
+504,3,0,male,40.5,0,0,15.1000,,S,,187,
+505,3,0,male,35,0,0,7.8958,,C,,,
+506,3,0,female,21,2,2,34.3750,,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+507,3,0,male,,0,0,7.7500,,Q,,,
+508,2,0,male,31,0,0,10.5000,,S,,165,"Sweden / Arlington, NJ"
+509,1,0,male,42,0,0,26.5500,D22,S,,,"London / Winnipeg, MB"
+510,3,0,male,,0,0,7.7292,,Q,,,
+511,2,0,male,54,1,0,26.0000,,S,,,London
+512,1,1,female,55,0,0,27.7208,,C,6,,"Stockholm, Sweden"
+513,1,1,female,35,1,0,90.0000,C93,S,D,,"New York, NY /  Stamford CT"
+514,2,1,female,27,1,0,13.8583,,C,12,,"Barcelona, Spain / Havana, Cuba"
+515,2,0,male,30,1,0,24.0000,,C,,,"Russia New York, NY"
+516,2,1,female,1,1,2,41.5792,,C,14,,Paris / Haiti
+517,2,1,male,30,0,0,12.7375,,C,14,,"Milford, NH"
+518,1,1,female,22,0,1,59.4000,,C,7,,"New York, NY"
+519,3,0,male,35,0,0,7.0500,,S,,,
+520,3,0,male,19,0,0,7.8958,,S,,,
+521,3,0,female,9,2,2,34.3750,,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+522,2,0,male,28,0,0,10.5000,,S,,,"St Andrews, Guernsey"
+523,3,0,male,,0,0,7.2292,,C,,,
+524,3,0,male,50,1,0,14.5000,,S,,119,
+525,3,1,female,,0,0,7.7500,,Q,D,,
+526,1,1,male,,0,0,26.0000,,S,1,,"New York, NY"
+527,2,0,male,34,1,0,21.0000,,S,,,"Cornwall / Clear Creek, CO"
+528,3,0,male,,0,0,7.0000,,S,,,
+529,3,0,male,19,0,0,0.0000,,S,,,
+530,3,0,male,,0,0,8.0500,,S,,,
+531,3,1,female,33,1,2,20.5750,,S,10,,"Devon, England Wichita, KS"
+532,3,0,male,13,0,2,20.2500,,S,,,"East Providence, RI"
+533,3,0,female,25,1,0,7.9250,,S,,,
+534,3,0,male,,0,0,7.7500,,Q,,,
+535,3,1,male,25,0,0,7.2292,F E57,C,10,,
+536,3,1,male,,0,0,7.8875,,S,C,,
+537,3,0,male,,0,0,7.7500,,Q,,,
+538,2,0,male,30,0,0,13.0000,,S,,,"Sarnia, ON"
+539,1,0,male,28,0,0,47.1000,,S,,,"Montevideo, Uruguay"
+540,3,0,male,17,1,0,7.0542,,S,,,
+541,3,0,male,17,2,0,8.0500,,S,,,"West Bromwich, England Pontiac, MI"
+542,3,1,female,23,0,0,7.8542,,S,10,,
+543,2,0,male,23,0,0,13.0000,,S,,,
+544,3,0,male,,0,0,8.7125,,S,,,
+545,2,1,male,2,1,1,23.0000,,S,14,,"Cornwall / Akron, OH"
+546,2,0,male,25,0,0,10.5000,,S,,,"Cornwall, England Houghton, MI"
+547,3,1,male,1,1,2,20.5750,,S,10,,"Devon, England Wichita, KS"
+548,3,0,male,26,1,0,14.4542,,C,,,Greece
+549,3,0,male,28,0,0,9.5000,,S,,,
+550,1,0,male,47,0,0,42.4000,,S,,,"Washington, DC"
+551,3,0,male,9,4,2,31.3875,,S,,,"Sweden Worcester, MA"
+552,2,0,male,60,1,1,39.0000,,S,,,"Cape Town, South Africa / Seattle, WA"
+553,3,0,female,1,1,1,12.1833,,S,,,
+554,3,0,female,9,3,2,27.9000,,S,,,
+555,3,0,male,19,0,0,10.1708,,S,,,Austria
+556,3,0,male,50,0,0,8.0500,,S,,,
+557,2,1,female,30,0,0,13.0000,,S,10,,"Finland / Washington, DC"
+558,3,0,male,29,0,0,7.8542,,S,,,
+559,3,0,male,11,0,0,18.7875,,C,,,
+560,3,1,male,9,1,1,15.9000,,S,2,,"England Brooklyn, NY"
+561,1,1,female,,0,0,79.2000,,C,D,,"New York, NY"
+562,2,1,female,18,0,1,23.0000,,S,,,Southampton
+563,3,0,male,25,0,0,7.2500,,S,B,,
+564,3,1,female,5,2,1,19.2583,,C,C,,"Syria New York, NY"
+565,3,0,male,9,5,2,46.9000,,S,,,"Wiltshire, England Niagara Falls, NY"
+566,3,0,male,29,0,0,7.7750,,S,,,
+567,3,0,male,30.5,0,0,8.0500,,S,,50,
+568,2,1,female,50,0,1,26.0000,,S,12,,"Woodford County, KY"
+569,1,0,male,30,0,0,27.7500,C111,C,,,"New York, NY"
+570,3,1,female,18,0,0,8.0500,,S,C,,"London Skanteales, NY"
+571,1,0,male,30,0,0,26.0000,C106,S,,,"Brockton, MA"
+572,3,0,male,37,2,0,7.9250,,S,,98,"Ruotsinphytaa, Finland New York, NY"
+573,3,0,male,24,0,0,7.7750,,S,,,"Sweden Joliet, IL"
+574,2,1,female,6,0,1,33.0000,,S,11,,"Denmark Hill, Surrey / Chicago"
+575,3,0,male,18,0,0,8.6625,,S,,,
+576,1,1,female,58,0,1,512.3292,B51 B53 B55,C,3,,"Germantown, Philadelphia, PA"
+577,1,0,male,58,0,2,113.2750,D48,C,,122,"Lexington, MA"
+578,3,1,female,4,0,1,13.4167,,C,15,,
+579,3,0,male,31,0,0,7.7333,,Q,,,"Philadelphia, PA"
+580,3,0,male,27,0,0,7.8958,,S,,,"Bulgaria Chicago, IL"
+581,1,1,male,37,1,1,52.5542,D35,S,5,,"New York, NY"
+582,3,0,female,31,0,0,7.8542,,S,,,
+583,3,1,male,32,0,0,56.4958,,S,C,,"Hong Kong New York, NY"
+584,1,1,male,,0,0,39.6000,,S,A,,"Paris /  New York, NY"
+585,1,0,male,30,1,2,151.5500,C22 C26,S,,135,"Montreal, PQ / Chesterville, ON"
+586,3,0,male,22,0,0,9.3500,,S,,,"Tranvik, Finland New York"
+587,1,1,female,58,0,1,153.4625,C125,S,3,,"Greenwich, CT"
+588,3,1,female,0.75,2,1,19.2583,,C,C,,"Syria New York, NY"
+589,3,0,male,31,0,0,7.7750,,S,,,
+590,1,1,female,21,0,0,26.5500,,S,8 10,,"Duluth, MN"
+591,1,1,female,28,3,2,263.0000,C23 C25 C27,S,10,,"Winnipeg, MB"
+592,3,0,female,37,0,0,7.7500,,Q,,,"Co Sligo, Ireland Hartford, CT"
+593,1,1,male,52,0,0,30.5000,C104,S,6,,"Toronto, ON"
+594,3,0,female,30,0,0,8.6625,,S,,,
+595,3,0,female,27,1,0,7.9250,,S,,,
+596,1,1,female,43,1,0,55.4417,C116,C,5,,"Newark, NJ"
+597,1,1,female,,0,0,27.7208,,C,5,,"New York, NY"
+598,3,0,male,23.5,0,0,7.2292,,C,,188,
+599,3,0,male,44,0,1,16.1000,,S,,,"Bournemouth, England Newark, NJ"
+600,1,0,male,61,0,0,32.3208,D50,S,,46,"Haddenfield, NJ"
+601,3,1,female,22,0,0,7.2500,,S,13,,
+602,3,0,female,31,1,0,18.0000,,S,,,
+603,3,1,male,25,0,0,7.6500,F G63,S,A,,"Perkins County, SD"
+604,3,0,female,,0,0,7.7500,,Q,,,
+605,3,0,female,27,0,0,7.8792,,Q,,,"New York, NY"
+606,1,1,male,28,0,0,26.5500,C52,S,D,,"Stockholm, Sweden / Washington, DC"
+607,1,0,male,,0,0,27.7208,,C,,,"Chicago, IL"
+608,1,1,female,48,1,0,39.6000,A16,C,1,,London / Paris
+609,3,0,male,32,0,0,7.8958,,S,,,
+610,3,1,male,20,0,0,7.9250,,S,15,,"Taalintehdas, Finland Hoboken, NJ"
+611,1,1,female,39,0,0,211.3375,,S,2,,
+612,2,1,female,34,0,0,13.0000,,S,12,,"Brooklyn, NY"
+613,3,0,male,41,0,0,7.1250,,S,,,"Finland Sudbury, ON"
+614,1,0,male,47,1,0,227.5250,C62 C64,C,,124,"New York, NY"
+615,2,0,male,30,0,0,13.0000,,S,,,"Bryn Mawr, PA, USA"
+616,3,0,female,,8,2,69.5500,,S,,,
+617,3,0,male,22,0,0,7.2500,,S,,,
+618,3,0,female,18.5,0,0,7.2833,,Q,,299,"Co Cork, Ireland Roxbury, MA"
+619,3,0,male,41,2,0,14.1083,,S,,,
+620,3,0,male,26,0,0,8.0500,,S,,103,"Bournemouth, England"
+621,2,0,male,16,0,0,26.0000,,S,,,"Liverpool / Montreal, PQ"
+622,1,1,male,6,0,2,134.5000,E34,C,3,,"Tuxedo Park, NY"
+623,1,1,male,,0,0,30.5000,C106,S,3,,"Manchester, England"
+624,2,0,male,30,0,0,13.0000,,S,,305,
+625,3,1,female,9,1,1,15.2458,,C,C,,
+626,3,1,male,18,0,0,8.0500,,S,12,,"London Brooklyn, NY"
+627,1,0,male,36,0,0,40.1250,A10,C,,,"Winnipeg, MB"
+628,3,0,male,24,0,0,8.0500,,S,,,
+629,3,0,male,22.5,0,0,7.2250,,C,,9,
+630,3,1,male,,0,0,7.7500,,Q,,,
+631,3,0,male,,0,0,7.8292,,Q,,,
+632,3,0,male,26,0,0,7.7750,,S,,,"Krakudden, Sweden Moune, IL"
+633,3,1,female,4,1,1,16.7000,G6,S,13,,
+634,1,0,male,24,0,0,79.2000,B86,C,,,
+635,1,1,female,22,0,1,61.9792,B36,C,5,,"Providence, RI"
+636,3,0,male,17,0,0,7.1250,,S,,,
+637,2,1,female,27,0,0,10.5000,E101,S,16,,"Bath, England / Massachusetts"
+638,2,1,female,50,0,0,10.5000,,S,13,,"London, England / Marietta, Ohio and Milwaukee, WI"
+639,3,0,male,39,1,5,31.2750,,S,,,"Sweden Winnipeg, MN"
+640,3,0,male,28,0,0,22.5250,,S,,173,
+641,3,0,male,14,4,1,39.6875,,S,,,
+642,3,0,male,45,0,0,6.9750,,S,,,"Effington Rut, SD"
+643,2,1,female,25,1,1,30.0000,,S,12,,London
+644,3,0,female,23,0,0,7.9250,,S,,,
+645,3,0,male,33,0,0,7.7750,,S,,37,
+646,3,0,male,18,1,1,20.2125,,S,,,
+647,3,0,male,41,0,0,7.8500,,S,,,"Philadelphia, PA"
+648,1,0,male,29,0,0,30.0000,D6,S,,126,"Springfield, MA"
+649,1,1,male,4,0,2,81.8583,A34,S,5,,"San Francisco, CA"
+650,3,0,male,36,0,0,7.8958,,S,,,
+651,2,1,female,18,0,2,13.0000,,S,16,,"Finland / Minneapolis, MN"
+652,1,1,male,35,0,0,512.3292,B101,C,3,,
+653,3,1,male,21,0,0,7.7750,,S,15,,
+654,3,0,male,33,0,0,8.6625,,C,,,
+655,3,0,male,,8,2,69.5500,,S,,,
+656,3,0,male,20,0,0,8.6625,,S,,,
+657,1,1,male,25,1,0,55.4417,E50,C,5,,"Brooklyn, NY"
+658,2,0,male,18,0,0,11.5000,,S,,,"Buenos Aires, Argentina / New Jersey, NJ"
+659,2,1,female,32,0,0,13.0000,,S,9,,Russia
+660,1,1,female,23,0,1,83.1583,C54,C,7,,"Mt Airy, Philadelphia, PA"
+661,1,0,male,31,1,0,52.0000,B71,S,,,"Montreal, PQ"
+662,1,1,female,14,1,2,120.0000,B96 B98,S,4,,"Bryn Mawr, PA"
+663,3,0,male,,8,2,69.5500,,S,,,
+664,3,0,female,,3,1,25.4667,,S,,,
+665,2,0,male,26,0,0,13.0000,,S,,,"Elmira, NY / Orange, NJ"
+666,3,0,male,30,0,0,8.0500,,S,,,London
+667,3,0,male,20,0,0,7.8542,,S,,,"Sweden Chicago, IL"
+668,1,0,male,55,1,1,93.5000,B69,S,,307,"Montreal, PQ"
+669,3,0,male,,1,0,19.9667,,S,,,
+670,3,1,male,21,0,0,7.8208,,Q,13,,"Kingwilliamstown, Co Cork, Ireland New York, NY"
+671,3,0,male,18,0,0,7.7500,,S,,,"Stockholm, Sweden New York"
+672,3,0,male,,0,0,7.8958,,S,,,
+673,3,0,male,22,0,0,7.5208,,S,,,
+674,1,0,male,,0,0,221.7792,C95,S,,,
+675,3,0,male,17,0,0,8.6625,,S,,,Austria-Hungary
+676,3,1,female,23,0,0,8.0500,,S,,,"London New York, NY"
+677,2,1,female,34,0,1,23.0000,,S,,,Southampton
+678,2,0,male,19,0,0,13.0000,,S,,18,"St Ives, Cornwall / Calumet, MI"
+679,2,0,male,33,0,0,12.2750,,S,,,"Philadelphia, PA"
+680,1,1,female,55,0,0,135.6333,C32,C,8,,"New York, NY / Briarcliff Manor NY"
+681,3,1,female,18,0,0,7.2292,,C,C,,"Greensburg, PA"
+682,3,1,male,30,0,0,9.5000,,S,11,,"Belgium Detroit, MI"
+683,1,1,female,22,0,0,151.5500,,S,11,,
+684,1,1,female,24,0,0,83.1583,C54,C,7,,"New York, NY"
+685,2,0,male,46,0,0,26.0000,,S,,,"Rochester, NY"
+686,3,1,female,17,4,2,7.9250,,S,D,,"Ruotsinphyhtaa, Finland New York, NY"
+687,3,0,female,,0,0,7.7500,,Q,,,
+688,2,1,male,32,1,0,26.0000,,S,13,,"Norwich / New York, NY"
+689,2,1,female,35,0,0,21.0000,,S,14,,"Mamaroneck, NY"
+690,3,1,male,,2,0,23.2500,,Q,16,,
+691,3,1,male,,0,0,56.4958,,S,13,,"Hong Kong New York, NY"
+692,3,0,male,21,0,0,7.8542,,S,,69,
+693,3,1,female,,1,0,15.5000,,Q,,,
+694,1,1,male,38,1,0,90.0000,C93,S,D,,"New York, NY /  Stamford CT"
+695,2,1,female,24,0,2,14.5000,,S,4,,"Detroit, MI"
+696,1,0,male,32.5,0,0,211.5000,C132,C,,45,
+697,1,1,female,36,0,2,71.0000,B22,S,7,,"Milwaukee, WI"
+698,1,1,female,30,0,0,93.5000,B73,S,3,,
+699,3,0,male,,0,0,7.5500,,S,,,
+700,3,0,male,25,0,0,7.8958,,S,,,
+701,1,1,female,35,1,0,83.4750,C83,S,D,,"New York, NY"
+702,3,0,female,14,0,0,7.8542,,S,,,
+703,3,0,male,,0,0,7.8958,,S,,,
+704,3,0,male,,0,0,14.5000,,S,,,
+705,3,1,male,20,1,0,7.9250,,S,15,,
+706,2,0,male,,0,0,0.0000,,S,,,Belfast
+707,1,1,male,,0,0,35.5000,C52,S,D,,"London, England"
+708,3,0,male,61,0,0,6.2375,,S,,,
+709,3,0,male,43,0,0,7.8958,,S,,,
+710,1,1,male,23,0,1,63.3583,D10 D12,C,7,,"New York, NY"
+711,3,0,male,,3,1,25.4667,,S,,,
+712,3,1,female,15,1,0,14.4542,,C,,,
+713,3,0,female,22,2,0,8.6625,,S,,,
+714,3,0,male,39,0,0,24.1500,,S,,,
+715,1,1,male,53,0,0,28.5000,C51,C,B,,"Washington, DC"
+716,2,0,male,,0,0,0.0000,,S,,,Belfast
+717,3,0,female,,0,0,7.7500,,Q,,,
+718,1,1,female,36,0,0,262.3750,B61,C,4,,
+719,3,1,female,,0,0,7.2250,,C,C,,
+720,3,0,male,,0,0,7.8958,,S,,,
+721,3,1,female,,1,1,22.3583,F E69,C,D,,
+722,1,1,female,26,1,0,136.7792,C89,C,4,,"Los Angeles, CA"
+723,2,0,male,34,1,0,26.0000,,S,,283,"Moscow / Bronx, NY"
+724,3,0,male,28,0,0,8.0500,,S,,,
+725,2,1,female,,0,0,33.0000,,S,11,,"London / Chicago, IL"
+726,1,1,female,38,1,0,71.2833,C85,C,4,,"New York, NY"
+727,3,0,male,,0,0,7.2500,,S,,,
+728,1,0,male,,0,0,0.0000,B102,S,,,
+729,1,0,male,64,0,0,26.0000,,S,,263,"Isle of Wight, England"
+730,1,0,male,24,0,1,247.5208,B58 B60,C,,,"Montreal, PQ"
+731,3,0,male,20.5,0,0,7.2500,,S,,,
+732,2,0,male,18,0,0,11.5000,,S,,,"Penzance, Cornwall / Akron, OH"
+733,3,0,female,14.5,1,0,14.4542,,C,,328,
+734,3,1,female,35,1,1,20.2500,,S,A,,"East Providence, RI"
+735,2,1,female,29,0,0,10.5000,F33,S,11,,"Folkstone, Kent / New York, NY"
+736,2,1,male,29,0,0,13.8583,,C,9,,"Spain / Havana, Cuba"
+737,2,1,male,20,0,0,13.8625,D38,C,7,,"Cologne, Germany"
+738,2,1,female,0.9167,1,2,27.7500,,S,10,,"Bournmouth, England"
+739,3,0,male,,1,0,7.7500,,Q,,,
+740,1,1,female,48,1,3,262.3750,B57 B59 B63 B66,C,4,,"Haverford, PA / Cooperstown, NY"
+741,3,0,female,3,3,1,21.0750,,S,,,
+742,3,0,male,36,0,0,7.2500,,S,,,
+743,1,0,male,,0,0,50.0000,A32,S,,,"Seattle, WA"
+744,3,1,male,22,0,0,7.2250,,C,6,,
+745,2,1,female,14,1,0,30.0708,,C,,,"New York, NY"
+746,3,1,male,,0,0,56.4958,,S,C,,
+747,2,0,male,42,1,1,32.5000,,S,,,"Greenport, NY"
+748,3,1,male,32,0,0,7.7750,,S,A,,
+749,1,1,female,41,0,0,134.5000,E40,C,3,,
+750,3,0,male,19,0,0,8.1583,,S,,,"Bristol, England Cleveland, OH"
+751,2,1,female,45,1,1,26.2500,,S,14,,"Ilford, Essex / Winnipeg, MB"
+752,3,0,male,45.5,0,0,7.2250,,C,,312,
+753,3,0,male,,0,0,7.7500,,Q,,,"Ireland New York, NY"
+754,3,0,male,,0,0,7.2292,,C,,,
+755,3,0,male,32,0,0,7.7500,,Q,,,"Ireland New York, NY"
+756,1,0,male,37,0,1,29.7000,C118,C,,,"Brooklyn, NY"
+757,2,0,female,57,0,0,10.5000,E77,S,,52,"Southampton / New York, NY"
+758,2,0,male,41,0,0,15.0458,,C,,,"New York, NY"
+759,2,0,male,32,0,0,13.5000,,S,,209,"Sydney, Australia"
+760,2,1,female,36,0,0,13.0000,D,S,10,,"Bristol, Avon / Jacksonville, FL"
+761,2,0,male,24,2,0,73.5000,,S,,,"West Hampstead, London / Neepawa, MB"
+762,1,1,male,28,0,0,35.5000,A6,S,7,,"New Britain, CT"
+763,3,0,male,40,0,0,7.8958,,S,,,
+764,3,0,male,,0,0,7.2250,,C,,,
+765,2,0,male,,0,0,10.7083,,Q,,,
+766,1,1,female,39,1,1,83.1583,E49,C,14,,"Lakewood, NJ"
+767,1,1,female,33,1,0,53.1000,E8,S,5,,"New York, NY / Ithaca, NY"
+768,3,0,male,,8,2,69.5500,,S,,,
+769,1,1,female,33,0,0,86.5000,B77,S,8,,"London  Vancouver, BC"
+770,3,0,male,,0,0,7.2250,,C,,,
+771,3,1,male,32,0,0,8.0500,E10,S,9,,
+772,1,1,female,,0,1,55.0000,E33,S,6,,"St Leonards-on-Sea, England Ohio"
+773,3,0,male,74,0,0,7.7750,,S,,,
+774,3,0,male,27,0,0,8.6625,,S,,,
+775,2,0,male,42,0,0,13.0000,,S,,,London
+776,3,0,male,8,4,1,29.1250,,Q,,,
+777,3,0,male,,0,0,7.7500,,Q,,,Ireland
+778,3,1,female,,0,2,22.3583,,C,D,,
+779,2,0,male,37,1,0,26.0000,,S,,17,"Cornwall / Spokane, WA"
+780,1,1,male,49,1,0,56.9292,A20,C,1,,London / Paris
+781,3,0,female,6,4,2,31.2750,,S,,,"Sweden Winnipeg, MN"
+782,3,0,male,21,0,0,7.2500,,S,,,
+783,2,0,male,25,0,0,13.0000,,S,,97,"Southsea, Hants"
+784,1,1,male,25,1,0,91.0792,B49,C,7,,"Dowagiac, MI"
+785,3,0,female,23,0,0,8.6625,,S,,,
+786,3,1,female,24,0,3,19.2583,,C,C,,"Syria New York, NY"
+787,1,1,male,42,0,0,26.2875,E24,S,5,,"New York, NY"
+788,3,1,male,26,0,0,7.7750,,S,15,,
+789,2,0,male,25,0,0,13.0000,,S,,,Liverpool
+790,1,1,female,59,2,0,51.4792,C101,S,D,,"Belmont, MA"
+791,2,0,female,29,1,0,26.0000,,S,,,"Cornwall / Spokane, WA"
+792,2,1,female,12,2,1,39.0000,F4,S,13,,"Guntur, India / Benton Harbour, MI"
+793,3,1,male,32,0,0,56.4958,,S,C,,"Hong Kong New York, NY"
+794,2,0,male,44,1,0,26.0000,,S,,,"England / Sacramento, CA"
+795,3,0,male,,0,0,7.8958,,S,,,
+796,3,0,female,29,1,1,10.4625,G6,S,,,
+797,3,0,male,21,1,0,6.4958,,S,,,
+798,3,0,male,,0,0,7.8958,,S,,,
+799,2,0,male,61,0,0,12.3500,,Q,,,
+800,3,1,female,,0,0,7.8792,,Q,13,,
+801,1,1,female,36,1,2,120.0000,B96 B98,S,4,,"Bryn Mawr, PA"
+802,3,0,male,21,0,0,7.7500,,Q,,,"Ireland Philadelphia, PA"
+803,1,1,male,21,0,1,61.3792,,C,A,,"Geneva, Switzerland / Radnor, PA"
+804,1,0,male,49,1,1,110.8833,C68,C,,,"Haverford, PA"
+805,3,0,male,17,1,1,7.2292,,C,,,
+806,3,0,male,60.5,0,0,,,S,,261,
+807,3,0,female,25,0,0,7.7750,,S,,,
+808,3,0,male,,0,0,7.2500,,S,,,
+809,2,0,male,,0,0,15.0500,,C,,,
+810,2,0,female,,0,0,21.0000,,S,,,"Upper Burma, India Pittsburgh, PA"
+811,3,1,female,38,1,5,31.3875,,S,15,,"Sweden  Worcester, MA"
+812,1,0,male,,0,0,227.5250,,C,,,
+813,3,0,male,24,0,0,7.4958,,S,,,
+814,3,0,male,,0,0,7.2292,,C,,,
+815,3,0,male,,0,0,7.7500,,Q,,,
+816,1,0,male,50,1,0,106.4250,C86,C,,62,"Deephaven, MN / Cedar Rapids, IA"
+817,2,1,male,,0,0,13.8625,,C,9,,"Spain / Havana, Cuba"
+818,3,0,female,47,1,0,14.5000,,S,,7,
+819,1,1,female,76,1,0,78.8500,C46,S,6,,"Little Onn Hall, Staffs"
+820,1,0,male,38,0,1,153.4625,C91,S,,147,"Winnipeg, MB"
+821,3,0,male,30,0,0,7.2292,,C,,,
+822,2,0,male,47,0,0,10.5000,,S,,,Cornwall
+823,3,0,female,28,0,0,7.8958,,S,,,
+824,1,0,male,39,0,0,0.0000,A36,S,,,"Belfast, NI"
+825,3,1,female,,0,0,8.0500,,S,C,,
+826,3,0,male,36,0,0,9.5000,,S,,,
+827,3,0,male,35,0,0,8.0500,,S,,,"Broomfield, Chelmsford, England"
+828,1,1,female,19,1,0,91.0792,B49,C,7,,"Dowagiac, MI"
+829,3,0,female,21,0,0,7.7500,,Q,,,
+830,3,0,male,,0,0,8.0500,,S,,,"Bridgwater, Somerset, England"
+831,3,1,male,29,0,0,7.7500,,Q,13 15 B,,"Co Athlone, Ireland New York, NY"
+832,3,0,male,16,4,1,39.6875,,S,,,
+833,1,1,female,31,1,0,113.2750,D36,C,6,,"Lexington, MA"
+834,2,0,male,48,0,0,13.0000,,S,,271,"Copenhagen, Denmark"
+835,3,0,female,,3,1,25.4667,,S,,,
+836,3,0,male,19,0,0,14.5000,,S,,,
+837,3,0,male,36,1,1,24.1500,,S,,,
+838,3,0,male,,0,0,7.5500,,S,,,
+839,1,1,male,32,0,0,30.5000,B50,C,3,,"Basel, Switzerland"
+840,3,1,male,39,0,0,7.9250,,S,9,,
+841,2,0,male,54,0,0,26.0000,,S,,,"Holley, NY"
+842,1,0,male,46,0,0,26.0000,,S,,80,"Bennington, VT"
+843,1,1,female,35,1,0,57.7500,C28,C,11,,"New York, NY"
+844,2,0,male,19,0,0,10.5000,,S,,,"Gunnislake, England / Butte, MT"
+845,3,0,male,24,0,0,8.0500,,S,,,London
+846,3,1,female,16,0,0,7.6500,,S,16,,"Norway Los Angeles, CA"
+847,3,0,male,24,0,0,9.5000,,S,,,
+848,3,0,male,28.5,0,0,16.1000,,S,,14,
+849,1,0,male,46,1,0,61.1750,E31,S,,,"Amenia, ND"
+850,2,0,male,32.5,1,0,30.0708,,C,,43,"New York, NY"
+851,3,1,female,27,0,1,12.4750,E121,S,14,,
+852,3,0,male,21,0,0,7.2250,,C,,,"Ottawa, ON"
+853,3,0,male,,0,0,7.7250,,Q,,,
+854,1,0,male,,0,0,31.0000,,S,,,
+855,1,0,male,19,3,2,263.0000,C23 C25 C27,S,,,"Winnipeg, MB"
+856,3,0,male,27,0,0,7.2250,,C,,,
+857,1,1,male,11,1,2,120.0000,B96 B98,S,4,,"Bryn Mawr, PA"
+858,1,1,female,35,0,0,135.6333,C99,S,8,,
+859,3,0,male,17,0,0,8.6625,,S,,,
+860,3,0,male,,0,0,8.0500,,S,,,
+861,3,0,male,30,0,0,7.8958,,S,,,
+862,3,0,male,10,4,1,29.1250,,Q,,,
+863,1,1,female,53,2,0,51.4792,C101,S,D,,"Bayside, Queens, NY"
+864,3,0,male,35,0,0,8.0500,,S,,,"Lower Clapton, Middlesex or Erdington, Birmingham"
+865,3,0,female,,0,0,7.6292,,Q,,,
+866,3,0,female,2,3,2,27.9000,,S,,,
+867,3,0,male,39,0,0,7.9250,,S,,,
+868,2,0,male,27,0,0,13.0000,,S,,,"Lake Arthur, Chavez County, NM"
+869,1,0,male,47,0,0,34.0208,D46,S,,,"East Orange, NJ"
+870,1,0,male,65,0,0,26.5500,E38,S,,249,"East Bridgewater, MA"
+871,1,0,male,28.5,0,0,27.7208,D43,C,,189,"?Havana, Cuba"
+872,3,1,female,22,0,0,7.7250,,Q,13,,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY"
+873,1,1,male,54,1,0,55.4417,C116,C,1,,"Newark, NJ"
+874,1,1,male,49,1,0,89.1042,C92,C,5,,"Paris, France / New York, NY"
+875,3,0,male,22,0,0,7.7958,,S,,,"Sweden Worcester, MA"
+876,2,0,male,24,2,0,31.5000,,S,,,"Guernsey / Elizabeth, NJ"
+877,2,0,male,30,0,0,10.5000,,S,,,"Walthamstow, England"
+878,3,0,male,,0,0,9.5000,,S,,,
+879,1,0,male,47,0,0,25.5875,E58,S,,,"Victoria, BC"
+880,3,1,male,12,1,0,11.2417,,C,C,,
+881,3,0,male,33,0,0,7.8958,,C,,51,"Austria Niagara Falls, NY"
+882,1,1,male,43,1,0,27.7208,D40,C,5,,"New York, NY"
+883,3,0,male,32,0,0,8.3625,,S,,,"Foresvik, Norway Portland, ND"
+884,2,0,male,21,1,0,11.5000,,S,,,"Cornwall / Camden, NJ"
+885,1,1,male,36,0,0,26.2875,E25,S,7,,"Philadelphia, PA"
+886,3,0,female,9,4,2,31.2750,,S,,,"Sweden Winnipeg, MN"
+887,3,0,male,,0,0,7.5500,,S,,,
+888,1,0,male,56,0,0,26.5500,,S,,,"New York, NY"
+889,1,1,male,40,0,0,31.0000,A31,C,7,,"Glen Ridge, NJ"
+890,1,1,female,18,1,0,60.0000,C31,S,6,,"Huntington, WV"
+891,3,0,male,33,1,1,20.5250,,S,,,"Strood, Kent, England Detroit, MI"
+892,3,0,female,22,0,0,9.8375,,S,,,
+893,3,0,male,29,0,0,9.4833,,S,,,
+894,3,1,male,0.4167,0,1,8.5167,,C,16,,
+895,3,0,male,19,0,0,7.8958,,S,,,
+896,1,1,male,60,1,1,79.2000,B41,C,5,,"Zurich, Switzerland"
+897,3,0,male,,0,0,7.8958,,C,,,
+898,2,1,female,36,0,0,13.0000,,S,9,,"Sittingbourne, England / San Diego, CA"
+899,3,0,male,,0,0,8.0500,,S,,,
+900,3,1,female,38,0,0,7.2292,,C,C,,
+901,1,0,male,18,1,0,108.9000,C65,C,,,"Madrid, Spain"
+902,3,0,female,30,1,0,15.5500,,S,A,,
+903,1,0,female,2,1,2,151.5500,C22 C26,S,,,"Montreal, PQ / Chesterville, ON"
+904,3,1,female,45,0,0,7.2250,,C,C,,"Ottawa, ON"
+905,3,0,female,,1,0,14.4542,,C,,,
+906,1,1,female,45,1,1,164.8667,,S,8,,"Youngstown, OH"
+907,3,1,female,,0,0,7.8792,,Q,,,
+908,2,0,male,,0,0,12.8750,,S,,,
+909,2,1,female,28,0,0,12.6500,,S,,,"Columbus, OH"
+910,1,1,female,60,0,0,76.2917,D15,C,8,,"Philadelphia, PA"
+911,1,1,female,22,1,0,66.6000,C2,S,8,,"Isleworth, England"
+912,3,0,male,25,0,0,7.2250,,C,,,
+913,3,0,male,,0,0,7.2292,F E46,C,,,
+914,2,1,female,42,1,0,26.0000,,S,,,"Weston-Super-Mare, Somerset"
+915,3,1,female,4,0,2,22.0250,,S,2,,
+916,1,0,male,,0,0,30.6958,,C,14,,"New York, NY"
+917,1,1,female,19,0,2,26.2833,D47,S,5,,"New York, NY"
+918,3,0,male,38,0,0,7.8958,,S,,,
+919,3,0,male,40.5,0,2,14.5000,,S,,255,
+920,3,1,female,,0,0,7.8292,,Q,13,,
+921,1,0,male,,0,0,42.4000,,S,,,
+922,2,0,male,39,0,0,13.0000,,S,,,"Middleburg Heights, OH"
+923,3,1,female,22,1,1,12.2875,,S,15,,
+924,2,1,female,42,0,0,13.0000,,S,,,"New York, NY"
+925,3,0,male,,1,0,14.4542,,C,,,
+926,3,0,male,59,0,0,7.2500,,S,,,"Merrill, WI"
+927,3,0,female,43,1,6,46.9000,,S,,,"Wiltshire, England Niagara Falls, NY"
+928,3,1,female,,1,0,16.1000,,S,16,,"Liverpool, England Bedford, OH"
+929,3,1,male,32,0,0,7.5792,,S,15,,
+930,1,0,male,36,1,0,78.8500,C46,S,,172,"Little Onn Hall, Staffs"
+931,2,1,male,8,0,2,32.5000,,S,10,,"Greenport, NY"
+932,3,0,male,20,0,0,9.2250,,S,,89,"Oslo, Norway Cameron, WI"
+933,3,1,male,21,0,0,7.7958,,S,13,,
+934,3,0,male,0.3333,0,2,14.4000,,S,,,"Stanton, IA"
+935,1,0,male,,0,0,35.0000,C128,S,,,"London, England"
+936,3,0,female,,0,0,7.5500,,S,,,
+937,3,0,male,16,2,0,18.0000,,S,,,
+938,1,0,male,,0,0,25.9250,,S,,,"New York, NY"
+939,1,1,male,31,0,0,28.5375,C53,C,7,,"Albany, NY"
+940,2,1,female,33,0,2,26.0000,,S,11,,"Plymouth, Devon / Detroit, MI"
+941,3,0,male,49,0,0,0.0000,,S,,,
+942,2,0,male,52,0,0,13.0000,,S,,19,"Bronx, NY"
+943,2,1,male,34,0,0,13.0000,D56,S,13,,London
+944,2,0,female,26,1,1,26.0000,,S,,,"Minneapolis, MN"
+945,3,0,female,2,1,1,20.2125,,S,,,
+946,2,1,male,19,0,0,10.5000,,S,B,,"Chelsea, London"
+947,2,0,male,52,0,0,13.5000,,S,,130,"Bronx, NY"
+948,2,0,male,23,1,0,10.5000,,S,,,
+949,1,1,female,35,0,0,211.5000,C130,C,4,,
+950,3,1,female,33,3,0,15.8500,,S,,,"Ruotsinphytaa, Finland New York, NY"
+951,3,0,male,16,0,0,9.5000,,S,,,
+952,3,0,male,,0,0,8.0500,,S,,,
+953,3,1,female,0.75,2,1,19.2583,,C,C,,"Syria New York, NY"
+954,3,0,male,,0,0,6.9500,,Q,,,
+955,3,1,female,,0,0,7.7500,,Q,13,,"Co Clare, Ireland Washington, DC"
+956,2,1,female,24,2,3,18.7500,,S,4,,"Cornwall / Akron, OH"
+957,2,0,male,18,0,0,73.5000,,S,,,"Lyndhurst, England"
+958,3,0,female,26,0,2,13.7750,,S,,,
+959,2,1,female,17,0,0,10.5000,,S,,,Guernsey
+960,1,1,female,40,1,1,134.5000,E34,C,3,,"Tuxedo Park, NY"
+961,2,1,male,0.6667,1,1,14.5000,,S,4,,"Detroit, MI"
+962,1,0,male,62,0,0,26.5500,C87,S,,,"Wimbledon Park, London / Hayling Island, Hants"
+963,3,0,male,32.5,0,0,9.5000,,S,,298,
+964,3,0,male,23,0,0,9.2250,,S,,,
+965,3,0,male,,0,0,7.2292,,C,,,
+966,1,1,female,15,0,1,211.3375,B5,S,2,,"St Louis, MO"
+967,2,0,male,30,1,1,26.0000,,S,,,"Minneapolis, MN"
+968,1,0,male,48,0,0,50.4958,B10,C,,208,"Omaha, NE"
+969,2,0,male,34,1,0,26.0000,,S,,,"Warwick, England"
+970,1,1,female,35,0,0,512.3292,,C,3,,
+971,1,1,female,54,1,1,81.8583,A34,S,5,,"San Francisco, CA"
+972,2,0,male,50,1,0,26.0000,,S,,121,"Weston-Super-Mare, Somerset"
+973,3,0,male,,1,0,15.5000,,Q,,,
+974,1,1,female,49,1,0,76.7292,D33,C,3,,"New York, NY"
+975,1,0,male,37,1,0,53.1000,C123,S,,,"Scituate, MA"
+976,2,0,male,22,2,0,31.5000,,S,,,"Guernsey / Elizabeth, NJ"
+977,2,1,male,0.8333,0,2,29.0000,,S,13,,"Bangkok, Thailand / Roseville, IL"
+978,3,0,male,,0,0,7.2292,,C,,,
+979,1,0,male,23,0,0,93.5000,B24,S,,,"Montreal, PQ"
+980,1,1,female,16,0,0,86.5000,B79,S,8,,
+981,1,1,female,27,1,2,52.0000,B71,S,3,,"Montreal, PQ"
+982,3,0,female,38,4,2,7.7750,,S,,,"Vadsbro, Sweden Ministee, MI"
+983,3,0,male,24,0,0,7.8958,,S,,,
+984,3,1,female,,0,0,7.7792,,Q,,,
+985,3,0,male,,0,0,8.4583,,Q,,,
+986,2,0,male,26,0,0,13.0000,F2,S,,,"Boston, MA"
+987,1,0,male,,0,0,0.0000,,S,,,Belfast
+988,1,0,male,,0,0,0.0000,,S,,,"Liverpool, England / Belfast"
+989,2,0,male,70,0,0,10.5000,,S,,,"Guernsey / Montclair, NJ and/or Toledo, Ohio"
+990,2,0,male,18,0,0,73.5000,,S,,,"New Forest, England"
+991,1,1,female,33,1,0,90.0000,C78,Q,14,,"Green Bay, WI"
+992,3,0,male,,0,0,8.0500,,S,,,
+993,2,0,female,27,1,0,21.0000,,S,,,"Plymouth, England"
+994,3,1,male,29,3,1,22.0250,,S,2,,
+995,1,0,male,47,0,0,38.5000,E63,S,,275,"St Anne's-on-Sea, Lancashire"
+996,3,0,male,,1,0,16.1000,,S,,,"Liverpool, England Bedford, OH"
+997,3,0,male,,0,0,7.2500,,S,,,
+998,1,1,male,26,0,0,30.0000,C148,C,5,,"New York, NY"
+999,3,0,male,42,0,0,7.5500,,S,,,
+1000,1,0,male,25,0,0,26.0000,,C,,148,"San Francisco, CA"
+1001,3,0,male,19,0,0,6.7500,,Q,,,"Co Cork, Ireland Charlestown, MA"
+1002,1,0,male,40,0,0,27.7208,,C,,,"Mexico City, Mexico"
+1003,1,1,male,13,2,2,262.3750,B57 B59 B63 B66,C,4,,"Haverford, PA / Cooperstown, NY"
+1004,3,1,female,21,0,0,7.6500,,S,C,,
+1005,1,0,male,64,1,4,263.0000,C23 C25 C27,S,,,"Winnipeg, MB"
+1006,2,1,female,29,1,0,26.0000,,S,10,,"England / Sacramento, CA"
+1007,2,0,male,38,1,0,21.0000,,S,,,"Cornwall / Clear Creek, CO"
+1008,3,1,female,22,0,0,8.9625,,S,C,,
+1009,3,0,male,,0,0,7.7500,F38,Q,,,
+1010,3,0,male,22,0,0,7.1250,,S,,,
+1011,3,0,male,6,3,1,21.0750,,S,,,
+1012,1,1,male,,0,0,25.7417,,C,7,,"Paris, France"
+1013,3,1,male,26,0,0,18.7875,,C,15,,"Syria Fredericksburg, VA"
+1014,3,0,male,65,0,0,7.7500,,Q,,,
+1015,2,0,male,31,1,1,26.2500,,S,,,"Bishopstoke, Hants / Fayette Valley, ID"
+1016,1,0,male,17,0,0,47.1000,,S,,,"Montevideo, Uruguay"
+1017,3,1,female,,0,0,7.7500,,Q,15 16,,
+1018,3,0,male,34,0,0,6.4958,,S,,143,
+1019,2,0,male,29,1,0,27.7208,,C,,295,"Lucca, Italy / California"
+1020,1,0,male,27,1,0,136.7792,C89,C,,,"Los Angeles, CA"
+1021,1,1,female,45,0,0,262.3750,,C,4,,"Cooperstown, NY"
+1022,3,1,male,27,0,0,8.6625,,S,15,,
+1023,3,0,male,,0,0,7.8958,,S,,,
+1024,2,1,female,13,0,1,19.5000,,S,14,,"England / Bennington, VT"
+1025,3,0,male,21,0,0,8.4333,,S,,,
+1026,1,0,male,65,0,1,61.9792,B30,C,,234,"Providence, RI"
+1027,3,0,male,,1,0,24.1500,,Q,,,
+1028,3,0,male,,0,0,7.7500,,Q,,,
+1029,2,1,female,40,0,0,15.7500,,S,9,,"Aberdeen / Portland, OR"
+1030,1,1,female,63,1,0,77.9583,D7,S,10,,"Hudson, NY"
+1031,3,1,female,,0,0,7.7500,,Q,D,,
+1032,2,1,female,30,1,0,13.8583,,C,12,,"Barcelona, Spain / Havana, Cuba"
+1033,3,0,male,,0,0,7.7500,,Q,,,
+1034,3,1,male,,0,0,56.4958,,S,C,,
+1035,2,1,female,30,3,0,21.0000,,S,,,"Elizabeth, NJ"
+1036,3,0,male,16,0,0,7.7750,,S,,,"Karberg, Sweden Jerome Junction, AZ"
+1037,3,1,female,1,1,1,16.7000,G6,S,13,,
+1038,3,0,male,,0,0,7.8958,,C,,,
+1039,1,1,male,42,1,0,52.5542,D19,S,5,,"Boston, MA"
+1040,3,0,female,,8,2,69.5500,,S,,,
+1041,2,1,female,41,0,1,19.5000,,S,14,,"England / Bennington, VT"
+1042,3,0,male,,0,0,8.0500,,S,,,
+1043,3,0,male,21,0,0,7.8000,,S,,,
+1044,2,0,male,,0,0,0.0000,,S,,,Belfast
+1045,3,0,female,39,0,5,29.1250,,Q,,327,
+1046,1,1,female,33,0,0,27.7208,A11,C,11,,"Paris, France"
+1047,3,0,male,1,5,2,46.9000,,S,,,"Wiltshire, England Niagara Falls, NY"
+1048,2,1,female,20,2,1,23.0000,,S,4,,"Cornwall / Akron, OH"
+1049,3,0,female,8,3,1,21.0750,,S,,,
+1050,3,1,male,29,0,0,7.8958,,C,15,,
+1051,2,1,male,3,1,1,26.0000,F2,S,D,,"Nice, France"
+1052,1,0,male,39,0,0,29.7000,A18,C,,133,"Philadelphia, PA"
+1053,3,1,female,26,1,1,22.0250,,S,2,,
+1054,3,0,female,28,0,0,7.7750,,S,,,
+1055,3,0,male,,0,0,8.0500,,S,,,
+1056,3,1,female,23,0,0,7.5500,,S,C,,
+1057,2,0,male,21,0,0,73.5000,,S,,,"New Forest, England"
+1058,1,1,female,44,0,0,27.7208,B4,C,6,,"Denver, CO"
+1059,3,0,male,18,0,0,7.7750,,S,,,"Tofta, Sweden Joliet, IL"
+1060,3,0,male,,0,0,7.2250,,C,,,
+1061,3,0,male,19,0,0,7.6500,F G73,S,,,
+1062,3,0,male,,0,0,7.7375,,Q,,,
+1063,2,0,male,36.5,0,2,26.0000,F2,S,,15,"Nice, France"
+1064,3,0,male,,0,0,7.2292,,C,,,
+1065,3,0,male,40,1,1,15.5000,,Q,,,"Ireland Chicago, IL"
+1066,1,1,male,45,0,0,26.5500,,S,9,,"New York, NY"
+1067,1,1,female,,1,0,82.1708,,C,6,,"New York, NY"
+1068,1,1,female,30,0,0,86.5000,B77,S,8,,"London, England"
+1069,3,0,male,27,0,0,8.6625,,S,,131,
+1070,3,1,female,2,0,1,12.2875,,S,15,,
+1071,3,0,male,30,0,0,7.2500,,S,,72,"Asarum, Sweden Brooklyn, NY"
+1072,3,1,female,,0,0,8.0500,,S,C,,
+1073,1,0,male,54,0,0,51.8625,E46,S,,175,"Dorchester, MA"
+1074,3,0,male,26,0,0,7.8958,,S,,,
+1075,3,0,male,22,0,0,7.8958,,S,,,
+1076,3,0,male,32,0,0,8.0500,,S,,,
+1077,1,1,male,27,0,0,76.7292,D49,C,3,,
+1078,3,1,female,19,1,0,7.8542,,S,16,,
+1079,3,0,male,,0,0,7.7500,,Q,,,
+1080,3,0,male,22,0,0,7.7750,,S,,,
+1081,3,0,female,,1,2,23.4500,,S,,,
+1082,3,0,male,,8,2,69.5500,,S,,,
+1083,3,1,female,27,0,0,7.9250,,S,,,
+1084,3,0,male,23,0,0,7.8958,,S,,,
+1085,3,0,male,31,0,0,7.7500,,Q,,,"Ireland Brooklyn, NY"
+1086,2,1,female,17,0,0,12.0000,,C,12,,"Berne, Switzerland / Central City, IA"
+1087,3,0,male,28,0,0,9.5000,,S,,,
+1088,3,0,male,36,0,0,7.4958,,S,,,"Bulgaria Chicago, IL"
+1089,3,0,male,28.5,0,0,7.2292,,C,,181,
+1090,3,0,female,28,1,1,14.4000,,S,,,"Stanton, IA"
+1091,1,0,male,71,0,0,34.6542,A5,C,,,"New York, NY"
+1092,1,1,female,30,0,0,56.9292,E36,C,1,,
+1093,3,0,male,,0,0,7.8958,,C,,,
+1094,1,0,male,46,0,0,79.2000,,C,,16,"New York, NY"
+1095,1,1,male,36,1,2,120.0000,B96 B98,S,C,,"Bryn Mawr, PA"
+1096,2,0,male,31,1,1,37.0042,,C,,,"Paris / Montreal, PQ"
+1097,1,0,male,19,1,0,53.1000,D30,S,,,"New York, NY"
+1098,2,1,female,24,1,2,65.0000,,S,9,,"Somerset / Bernardsville, NJ"
+1099,3,0,male,24,1,0,16.1000,,S,,,
+1100,3,0,male,70.5,0,0,7.7500,,Q,,171,
+1101,2,1,female,2,1,1,26.0000,,S,11,,"Plymouth, Devon / Detroit, MI"
+1102,2,1,female,3,1,2,41.5792,,C,14,,Paris / Haiti
+1103,2,1,female,24,1,0,27.7208,,C,12,,"Lucca, Italy / California"
+1104,3,1,male,,0,0,7.0500,,S,15,,"Italy Philadelphia, PA"
+1105,3,0,male,14.5,8,2,69.5500,,S,,67,
+1106,2,0,male,36,0,0,13.0000,,S,,236,"Rochester, NY"
+1107,1,0,male,54,0,1,77.2875,D26,S,,,"Brunswick, ME"
+1108,3,0,female,41,0,2,20.2125,,S,,,
+1109,1,0,male,24,1,0,60.0000,C31,S,,,"Huntington, WV"
+1110,2,1,female,28,0,0,13.0000,,S,9,,Spain
+1111,3,0,male,4,4,2,31.2750,,S,,,"Sweden Winnipeg, MN"
+1112,3,0,male,,0,0,8.7125,,C,,,
+1113,3,0,male,,0,0,6.4375,,C,,,
+1114,1,1,female,39,1,0,55.9000,E44,S,11,,"Duluth, MN"
+1115,3,0,male,,1,0,7.7500,,Q,,,
+1116,3,0,female,45,0,0,7.7500,,S,,,
+1117,1,1,female,,1,0,133.6500,,S,5,,"New York, NY"
+1118,1,0,male,50,1,1,211.5000,C80,C,,,"Elkins Park, PA"
+1119,2,0,male,14,0,0,65.0000,,S,,,"Somerset / Bernardsville, NJ"
+1120,2,0,male,19,0,0,10.5000,,S,,,
+1121,3,1,female,24,0,2,16.7000,G6,S,13,,
+1122,3,0,male,,0,0,7.8958,,S,,,
+1123,1,1,female,24,3,2,263.0000,C23 C25 C27,S,10,,"Winnipeg, MB"
+1124,3,0,male,22,0,0,7.2500,,S,,,
+1125,3,0,male,,0,0,7.8958,,S,,,"Bulgaria Coon Rapids, IA"
+1126,3,0,male,,0,0,7.8958,,S,,,
+1127,1,1,female,24,0,0,49.5042,C90,C,6,,"Belgium  Montreal, PQ"
+1128,3,1,male,24,0,0,7.5500,,S,D,,"England Albion, NY"
+1129,3,0,male,24,0,0,7.8542,,S,,,"Goteborg, Sweden Huntley, IL"
+1130,3,1,male,21,0,0,7.7958,,S,A,,
+1131,2,0,male,34,0,0,13.0000,,S,,,"Vancouver, BC"
+1132,3,1,female,26,0,0,7.8542,,S,13,,
+1133,3,0,male,21,0,0,7.8958,,S,,,
+1134,3,1,female,15,0,0,8.0292,,Q,,,
+1135,2,0,male,21,0,0,11.5000,,S,,,"Penzance, Cornwall / Akron, OH"
+1136,2,1,female,19,1,0,26.0000,,S,13,,"Norwich / New York, NY"
+1137,1,1,male,49,0,0,0.0000,B52 B54 B56,S,C,,Liverpool
+1138,3,0,female,,1,0,14.4542,,C,,,
+1139,3,0,male,35,0,0,7.1250,,S,,,
+1140,3,0,male,17,0,0,8.6625,,S,,,
+1141,3,0,male,,0,0,7.2250,,C,,,
+1142,3,0,male,22,0,0,9.0000,,S,,,"Antwerp, Belgium / Stanton, OH"
+1143,3,0,male,28,0,0,56.4958,,S,,,
+1144,1,1,female,48,1,1,79.2000,B41,C,5,,"Zurich, Switzerland"
+1145,2,1,female,40,1,1,39.0000,,S,14,,"Cape Town, South Africa / Seattle, WA"
+1146,1,1,female,16,0,1,57.9792,B18,C,4,,"Chicago, IL"
+1147,1,0,male,58,0,0,29.7000,B37,C,,258,"Buffalo, NY"
+1148,3,1,male,19,0,0,8.0500,,S,B,,"England Oglesby, IL"
+1149,3,0,male,16,0,0,9.2167,,S,,,
+1150,3,0,male,33,0,0,9.5000,,S,,,
+1151,3,0,male,,1,0,15.5000,,Q,,,
+1152,3,0,male,43,0,0,6.4500,,S,,,
+1153,3,0,male,,0,0,7.5500,,S,,,
+1154,1,1,male,36,0,1,512.3292,B51 B53 B55,C,3,,"Austria-Hungary / Germantown, Philadelphia, PA"
+1155,1,0,male,55,0,0,50.0000,C39,S,,,London / Birmingham
+1156,1,1,male,53,1,1,81.8583,A34,S,13,,"San Francisco, CA"
+1157,3,0,female,29,0,4,21.0750,,S,,206,
+1158,3,0,male,17,0,0,7.8958,,S,,,
+1159,1,1,female,60,1,4,263.0000,C23 C25 C27,S,10,,"Winnipeg, MB"
+1160,3,0,male,51,0,0,7.0542,,S,,,
+1161,1,0,male,,0,0,26.5500,C124,S,,,"Portland, OR"
+1162,2,1,female,50,0,0,10.5000,,S,9,,"Indianapolis, IN"
+1163,3,0,male,20,0,0,7.9250,,S,,,"Salo, Finland Astoria, OR"
+1164,1,1,female,32,0,0,76.2917,D15,C,8,,
+1165,2,0,male,28,0,0,10.5000,,S,,,"Plymouth, Dorset / Houghton, MI"
+1166,3,1,female,31,0,0,8.6833,,S,,,
+1167,1,1,female,30,0,0,31.0000,,C,4,,
+1168,2,1,female,21,0,1,21.0000,,S,12,,"Ilfracombe, Devon"
+1169,3,0,male,,0,0,8.0500,,S,,,
+1170,3,0,female,,8,2,69.5500,,S,,,
+1171,1,1,female,60,1,0,75.2500,D37,C,5,,"Portland, OR"
+1172,3,0,male,20,0,0,9.8458,,S,,,"Waukegan, Chicago, IL"
+1173,1,1,male,80,0,0,30.0000,A23,S,B,,"Hessle, Yorks"
+1174,3,0,male,,1,0,14.4583,,C,,,"Ottawa, ON"
+1175,2,0,male,28,0,1,33.0000,,S,,,"Denmark Hill, Surrey / Chicago"
+1176,1,1,female,29,0,0,211.3375,B5,S,2,,"St Louis, MO"
+1177,2,1,female,22,1,1,29.0000,,S,13,,"Bangkok, Thailand / Roseville, IL"
+1178,1,0,male,44,2,0,90.0000,C78,Q,,230,"Fond du Lac, WI"
+1179,2,1,male,8,1,1,36.7500,,S,14,,"St Ives, Cornwall / Hancock, MI"
+1180,2,0,male,23,0,0,10.5000,,S,,,Guernsey
+1181,3,0,male,,0,0,7.8958,,S,,,
+1182,3,0,male,35,0,0,7.8958,,S,,,Austria
+1183,2,1,male,1,0,2,37.0042,,C,10,,"Paris / Montreal, PQ"
+1184,1,1,male,,0,0,29.7000,C47,C,7,,"Paris, France"
+1185,3,1,female,,0,0,7.7333,,Q,13,,
+1186,3,0,male,21,0,0,7.7750,,S,,,"Brennes, Norway New York"
+1187,3,0,male,26,2,0,8.6625,,S,,,
+1188,2,0,male,57,0,0,13.0000,,S,,,"West Hoboken, NJ"
+1189,3,0,male,26,0,0,7.8958,,S,,,"Bulgaria Chicago, IL"
+1190,3,0,female,,0,2,15.2458,,C,,,"Syria Kent, ON"
+1191,3,0,female,,0,0,8.1125,,S,,,
+1192,2,0,male,29,0,0,10.5000,,S,,,"Hartford, Huntingdonshire"
+1193,3,0,male,,2,0,21.6792,,C,,,
+1194,2,0,male,21,2,0,73.5000,,S,,,"West Hampstead, London / Neepawa, MB"
+1195,3,0,male,6,1,1,15.2458,,C,,,"Syria Kent, ON"
+1196,2,0,female,38,0,0,13.0000,,S,,,"Janjgir, India / Pennsylvania"
+1197,3,1,male,,0,0,7.7500,,Q,,,
+1198,3,0,male,36,1,0,15.5500,,S,A,,
+1199,3,0,female,,0,0,8.1375,,Q,,,
+1200,2,0,male,29,1,0,26.0000,,S,,,"England / San Francisco, CA"
+1201,1,0,male,47,0,0,52.0000,C110,S,,207,"Worcester, MA"
+1202,3,0,male,25,0,0,7.0500,,S,,79,Argentina
+1203,3,0,male,,0,0,7.2500,,S,A,,
+1204,2,1,female,29,1,0,26.0000,,S,16,,
+1205,1,1,female,38,0,0,80.0000,B28,,6,,
+1206,2,1,female,40,0,0,13.0000,,S,9,,
+1207,1,0,male,,0,0,51.8625,E46,S,,,"Brighton, MA"
+1208,3,0,female,32,1,1,15.5000,,Q,,,"Ireland Chicago, IL"
+1209,1,1,male,24,1,0,82.2667,B45,S,7,,"Minneapolis, MN"
+1210,2,0,male,25,1,0,26.0000,,S,,,"Skara, Sweden / Rockford, IL"
+1211,3,0,male,22,0,0,7.8958,,S,,,
+1212,3,0,female,,8,2,69.5500,,S,,,
+1213,1,0,male,41,1,0,51.8625,D21,S,,,"Southington / Noank, CT"
+1214,3,1,female,,0,2,15.2458,,C,C,,
+1215,2,0,male,51,0,0,12.5250,,S,,174,"Jacksonville, FL"
+1216,3,0,female,,0,0,7.7500,,Q,,,
+1217,3,0,male,,0,0,14.4583,,C,,,
+1218,1,1,female,24,0,0,69.3000,B35,C,9,,"Paris, France"
+1219,1,1,female,26,0,0,78.8500,,S,6,,
+1220,2,1,female,36,1,0,26.0000,,S,11,,"Warwick, England"
+1221,2,0,female,44,1,0,26.0000,,S,,,London
+1222,3,0,male,18,0,0,7.7500,,S,,,
+1223,3,1,male,,0,0,7.2292,,C,15,,
+1224,3,0,male,19,0,0,7.8958,,S,,,Austria
+1225,1,1,female,62,0,0,80.0000,B28,,6,,"Cincinatti, OH"
+1226,3,0,female,24,0,0,7.7500,,Q,,,"Ireland New York, NY"
+1227,3,1,male,36.5,1,0,17.4000,,S,15,,"Tampico, MT"
+1228,2,1,female,8,0,2,26.2500,,S,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+1229,3,0,male,,0,0,7.8958,,S,,,
+1230,3,0,male,40.5,0,0,7.7500,,Q,,68,"Aughnacliff, Co Longford, Ireland New York, NY"
+1231,2,0,female,60,1,0,26.0000,,S,,,"Swindon, England"
+1232,2,1,female,4,1,1,23.0000,,S,14,,"Cornwall / Akron, OH"
+1233,3,1,female,,2,0,23.2500,,Q,16,,
+1234,2,0,male,32,0,0,13.0000,,S,,,"Portugal / Sau Paulo, Brazil"
+1235,2,0,male,43,1,1,26.2500,,S,,,"Ilford, Essex / Winnipeg, MB"
+1236,2,0,male,39,0,0,26.0000,,S,,,
+1237,2,0,male,,0,0,0.0000,,S,,,Belfast
+1238,3,1,female,24,1,0,15.8500,,S,15,,
+1239,1,1,female,17,1,0,108.9000,C65,C,8,,"Madrid, Spain"
+1240,3,0,female,17,0,0,14.4583,,C,,,
+1241,1,1,male,34,0,0,26.5500,,S,7,,"New York, NY"
+1242,3,0,male,44,0,0,8.0500,,S,,,
+1243,1,1,female,52,1,1,93.5000,B69,S,3,,"Montreal, PQ"
+1244,3,0,male,,1,2,23.4500,,S,,,
+1245,1,1,female,58,0,0,26.5500,C103,S,8,,"Birkdale, England Cleveland, Ohio"
+1246,1,0,male,71,0,0,49.5042,,C,,22,"Montevideo, Uruguay"
+1247,3,0,male,42,0,0,8.6625,,S,,,
+1248,3,1,female,18,0,0,9.8417,,S,15,,
+1249,3,0,male,,0,0,7.8958,,S,,,
+1250,3,1,female,47,1,0,7.0000,,S,,,
+1251,1,1,female,22,0,1,55.0000,E33,S,6,,"St Leonards-on-Sea, England Ohio"
+1252,2,1,female,30,0,0,12.3500,,Q,13,,"Halifax, NS"
+1253,2,0,male,39,0,0,13.0000,,S,,,"Harrow-on-the-Hill, Middlesex"
+1254,1,0,male,33,0,0,26.5500,,S,,109,London
+1255,2,0,male,36,0,0,12.8750,D,C,,,"Montreal, PQ"
+1256,3,0,male,24.5,0,0,8.0500,,S,,284,
+1257,3,1,female,26,0,0,7.9250,,S,,,
+1258,3,1,female,19,1,1,15.7417,,C,C,,
+1259,3,0,male,30,0,0,7.2250,,C,,,"Ottawa, ON"
+1260,2,0,male,57,0,0,12.3500,,Q,,,"Glasgow / Bangor, ME"
+1261,1,1,female,40,0,0,153.4625,C125,S,3,,"New York, NY / Greenwich CT"
+1262,3,0,male,28,0,0,7.7958,,S,,,"Dagsas, Sweden Fower, MN"
+1263,2,0,male,36,0,0,10.5000,,S,,,"Brighton, Sussex"
+1264,3,0,male,26,1,2,20.5750,,S,,,"Devon, England Wichita, KS"
+1265,3,0,male,32,0,0,7.9250,,S,,,
+1266,1,1,female,64,0,2,83.1583,E45,C,14,,"Lakewood, NJ"
+1267,2,0,male,40,0,0,16.0000,,S,,,"Weston-Super-Mare / Moose Jaw, SK"
+1268,3,0,male,,1,0,16.1000,,S,,,
+1269,1,1,female,24,0,0,69.3000,B35,C,9,,
+1270,3,0,male,18,0,0,7.7958,,S,,,
+1271,3,0,male,22,1,0,7.2500,,S,,,"Bridgerule, Devon"
+1272,1,1,female,37,1,0,90.0000,C78,Q,14,,"Fond du Lac, WI"
+1273,3,0,male,,0,0,7.7500,,Q,,,
+1274,1,1,female,30,0,0,164.8667,C7,S,8,,"Youngstown, OH"
+1275,2,1,female,12,0,0,15.7500,,S,9,,"Aberdeen / Portland, OR"
+1276,3,0,male,5,4,2,31.3875,,S,,,"Sweden  Worcester, MA"
+1277,3,0,female,18,0,0,7.8792,,Q,,,"Co Sligo, Ireland New York, NY"
+1278,3,0,male,25,0,0,7.7417,,Q,,,"New York, NY"
+1279,2,0,male,24,0,0,10.5000,,S,,108,
+1280,3,0,male,34.5,0,0,7.8292,,Q,,70,
+1281,3,1,male,20,0,0,7.2292,,C,15,,
+1282,1,0,male,38,0,0,0.0000,,S,,,"Rotterdam, Netherlands"
+1283,3,1,female,,1,0,15.5000,,Q,16,,
+1284,3,0,male,20,0,0,7.2250,,C,,,
+1285,3,0,male,,2,0,21.6792,,C,,,
+1286,3,0,male,21,0,0,8.0500,,S,,,
+1287,3,0,female,45,1,4,27.9000,,S,,,
+1288,1,1,female,48,1,0,106.4250,C86,C,2,,"Deephaven, MN / Cedar Rapids, IA"
+1289,3,0,male,34,1,1,14.4000,,S,,197,"Stanton, IA"
+1290,1,1,male,48,1,0,76.7292,D33,C,3,,"New York, NY"
+1291,1,0,male,,0,0,26.5500,D34,S,,,"Westcliff-on-Sea, Essex"
+1292,2,0,male,50,0,0,13.0000,,S,,149,Southampton
+1293,3,0,male,21,0,0,7.8542,,S,,,
+1294,3,1,male,,0,0,8.1125,,S,13,,
+1295,2,0,male,63,1,0,26.0000,,S,,,"Swindon, England"
+1296,3,0,female,37,0,0,9.5875,,S,,,
+1297,3,0,male,13,4,2,31.3875,,S,,,"Sweden Worcester, MA"
+1298,3,1,female,18,0,0,7.7750,,S,D,,
+1299,3,0,male,28,0,0,7.8542,,S,,,
+1300,2,1,female,55,0,0,16.0000,,S,13,,"India / Rapid City, SD"
+1301,3,0,male,21,0,0,7.9250,,S,,,
+1302,3,0,female,18,1,0,17.8000,,S,,,"Altdorf, Switzerland"
+1303,2,0,male,24,0,0,13.5000,,S,,297,"West Kensington, London"
+1304,3,0,male,23,1,0,13.9000,,S,,,"West Haven, CT"
+1305,1,0,male,42,1,0,52.0000,,S,,38,"New York, NY"
+1306,3,0,male,42,0,0,7.6500,F G63,S,,120,
+1307,1,1,male,31,1,0,57.0000,B20,S,3,,"Calgary, AB"
+1308,3,0,female,,0,0,14.5000,,S,,,
+1309,2,0,male,36,1,2,27.7500,,S,,,"Bournmouth, England"
